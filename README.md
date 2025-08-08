@@ -63,7 +63,7 @@ pip install pandas numpy tqdm psutil
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/flight-data-csv-combiner.git
+git clone https://github.com/SifuLabs/flight-data-csv-combiner.git
 cd flight-data-csv-combiner
 ```
 
